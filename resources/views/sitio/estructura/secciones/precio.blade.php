@@ -3,59 +3,86 @@
   <div class="container" data-aos="fade-up">
 
     <div class="section-title">
-      <h2>Pricing</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <h2>Planes Sitio Web</h2>
+      <p>Los planes de los Sistemas a medidas y Aplicaciones Móviles son de acuerdo a lo que necesita el cliente</p>
     </div>
 
     <div class="row">
 
       <div class="col-lg-4 col-md-6" data-aos="zoom-im" data-aos-delay="100">
         <div class="box">
-          <h3>Free</h3>
-          <h4><sup>$</sup>0<span> / month</span></h4>
+          <h3>Informativo</h3>
+          <h4><sup>$</sup>100.000</h4>
           <ul>
-            <li>Aida dere</li>
-            <li>Nec feugiat nisl</li>
-            <li>Nulla at volutpat dola</li>
-            <li class="na">Pharetra massa</li>
-            <li class="na">Massa ultricies mi</li>
+            <li>Diseño web 1 sola página</li>
+            <li>Hosting 1GB incluido</li>
+            <li>5 correos corporativos</li>
+            <li>Versión para móviles</li>
+            <li>Botón de WhatsApp</li>
+            <li>Formulario de contacto</li>
+            <li>Iconos de redes sociales</li>
+            <li>Mapa de ubicación</li>
+            <li>Galería de imágenes</li>
+            <li>Asistencia técnica</li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
           </ul>
           <div class="btn-wrap">
-            <a href="#" class="btn-buy">Buy Now</a>
+            <a href="#" class="btn-buy">Solicitar Plan</a>
           </div>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="100">
-        <div class="box featured">
-          <h3>Business</h3>
-          <h4><sup>$</sup>19<span> / month</span></h4>
+        <div class="box">
+          <h3>Administrable</h3>
+          <h4><sup>$</sup>200.000</h4>
           <ul>
-            <li>Aida dere</li>
-            <li>Nec feugiat nisl</li>
-            <li>Nulla at volutpat dola</li>
-            <li>Pharetra massa</li>
-            <li class="na">Massa ultricies mi</li>
+            <li>Panel autoadministrable</li>
+            <li>100% autoadministrable</li>
+            <li>Hosting 2GB incluido</li>
+            <li>10 correos corporativos</li>
+            <li>Versión para móviles</li>
+            <li>Botón de WhatsApp</li>
+            <li>Formulario de contacto</li>
+            <li>Iconos de redes sociales</li>
+            <li>Mapa de ubicación</li>
+            <li>Galería de imágenes</li>
+            <li>Asistencia técnica</li>
+            <li></li>
+            <li></li>
+            <li></li>
           </ul>
           <div class="btn-wrap">
-            <a href="#" class="btn-buy">Buy Now</a>
+            <a href="#" class="btn-buy">Solicitar Plan</a>
           </div>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="100">
         <div class="box">
-          <h3>Developer</h3>
-          <h4><sup>$</sup>29<span> / month</span></h4>
+          <h3>E-Commerce</h3>
+          <h4><sup>$</sup>400.000</h4>
           <ul>
-            <li>Aida dere</li>
-            <li>Nec feugiat nisl</li>
-            <li>Nulla at volutpat dola</li>
-            <li>Pharetra massa</li>
-            <li>Massa ultricies mi</li>
+            <li>Carrito de Compra</li>
+            <li>Anexo a pagos online (Transbank - Flow)</li>
+            <li>100% autoadministrable</li>
+            <li>Hosting 5GB incluido</li>
+            <li>15 correos corporativos</li>
+            <li>Versión para móviles</li>
+            <li>Botón de WhatsApp</li>
+            <li>Formulario de contacto</li>
+            <li>Iconos de redes sociales</li>
+            <li>Mapa de ubicación</li>
+            <li>Galería de imágenes</li>
+            <li>Asistencia técnica</li>
+            <li></li>
           </ul>
           <div class="btn-wrap">
-            <a href="#" class="btn-buy">Buy Now</a>
+            <a href="#" class="btn-buy">Solicitar Plan</a>
           </div>
         </div>
       </div>
