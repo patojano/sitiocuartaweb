@@ -12,8 +12,8 @@
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">All</li>
           <li data-filter=".filter-web">Sitios Web</li>
-          <li data-filter=".filter-system">Sistemas a Medidas</li>
-          <li data-filter=".filter-app">Aplicaciones Móviles</li>
+          {{-- <li data-filter=".filter-system">Sistemas a Medidas</li> --}}
+          {{-- <li data-filter=".filter-app">Aplicaciones Móviles</li> --}}
         </ul>
       </div>
     </div>
