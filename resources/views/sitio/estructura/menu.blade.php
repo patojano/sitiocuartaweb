@@ -9,7 +9,7 @@
     <nav id="navbar" class="navbar">
       <ul>
         <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
-        <li><a class="nav-link scrollto" href="#about">Nosotros</a></li>
+        {{-- <li><a class="nav-link scrollto" href="#about">Nosotros</a></li> --}}
         <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
         <li><a class="nav-link scrollto o" href="#portfolio">Portfolio</a></li>
         <li><a class="nav-link scrollto" href="#pricing">Planes</a></li>

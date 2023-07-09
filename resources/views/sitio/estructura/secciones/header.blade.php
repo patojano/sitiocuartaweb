@@ -7,7 +7,7 @@
       </div>
     </div>
     <div class="text-center">
-      <a href="#about" class="btn-get-started scrollto">Bienvenidos a nuestro espacio web</a>
+      <a href="#services" class="btn-get-started scrollto">Bienvenidos a nuestro espacio web</a>
     </div>
   </div>
 </section><!-- End Hero -->

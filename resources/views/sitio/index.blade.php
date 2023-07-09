@@ -10,7 +10,7 @@
   <main id="main">
 
     @include('sitio.estructura.secciones.header')
-    @include('sitio.estructura.secciones.about')
+    {{-- @include('sitio.estructura.secciones.about') --}}
     @include('sitio.estructura.secciones.servicios')
     @include('sitio.estructura.secciones.portafolio')
     @include('sitio.estructura.secciones.precio')
